@@ -1,5 +1,7 @@
 1. Boi Poka Book Vibe 
 
+before run the code `npm install react-toastify`
+
        clammy-plot.surge.sh
   
 2. React-World-Tour
